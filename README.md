@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abhishek-cg
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at linkedin.com/in/abhishekcg/
 
 <!---
 abhishek-cg/abhishek-cg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
