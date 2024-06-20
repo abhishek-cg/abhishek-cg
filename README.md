@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek-cg
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m wokring on NUXT.JS 
+- 🌱 I’m currently learning Node
 - 📫 Reach me at linkedin.com/in/abhishekcg/
 
 <!---
